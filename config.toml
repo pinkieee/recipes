@@ -1,0 +1,4 @@
+baseURL = "http://recipes.alienblonde.net/"
+languageCode = "en-us"
+title = "Recipes to remember"
+theme = "mediumish-gohugo-theme"
